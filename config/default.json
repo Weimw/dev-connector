@@ -1,4 +1,0 @@
-{
-    "mongoURI": "YOURMONGOURI",
-    "jwtSecret": "YOURJWTSECRET"
-}
